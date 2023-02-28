@@ -1,0 +1,29 @@
+body {
+  background-color: teal;
+}
+
+h1{
+  color:;
+  font-size: 24px;
+  font-family:  
+}
+
+img{width:25%;
+}
+
+
+.header {
+  background-color: orange;
+  padding-left: 10px;
+  border: 1px solid white;
+  
+
+}
+
+.footer{
+  
+ background-color: orange;
+  padding-left: 10px;
+  border: 1px solid white
+  
+}
